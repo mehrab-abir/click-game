@@ -1,3 +1,3 @@
 # click-game
 
-It's a simple click game, has been made using HTML, CSS, JavaScript
+It's a simple click game, HTML, CSS, JavaScript project
