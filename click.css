@@ -19,7 +19,7 @@ body{
 .container .instruction{
     width: 550px;
     height: auto;
-    background-color: #005ce6;
+    background-color: #001739;
     margin: 50px auto;
     margin-bottom: 0px;
     border: 1px solid white;
@@ -35,7 +35,7 @@ body{
     height: 300px;
     margin: auto;
     border: 1px solid white;
-    background-color: #005ce6;
+    background-color: #001739;
     color: white;
     border-radius: 0px 0px 20px 20px;
     box-shadow: 0px 0px 8px 0px white;
@@ -60,5 +60,7 @@ body{
     transition: all 0.3s ease;
 }
 .container .game-box button:hover{
-    background-color: #e6e6e6;
+    background-color: #666666;
+    cursor: pointer;
+    color: white;
 }
