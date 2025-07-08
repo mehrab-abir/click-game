@@ -1,3 +1,2 @@
-# click-game
-
-It's a simple click game, HTML, CSS, JavaScript project
+A simple click game
+HTML, CSS, JavaScript project -> https://mehrab-abir.github.io/click-game/click.html
